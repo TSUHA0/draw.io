@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T07:47:21.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="cZW-CO1Q48mweptSUKLT" type="github"><diagram id="P4kcmSs1mavT8kQm9UWM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-27T08:52:29.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_6k1Tv1YbElx2l1xLDuw" version="16.1.0" type="github">
+  <diagram id="P4kcmSs1mavT8kQm9UWM" name="Page-1">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-NO5CkW5-r49oLRjjieS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-NO5CkW5-r49oLRjjieS-1" target="-NO5CkW5-r49oLRjjieS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NO5CkW5-r49oLRjjieS-1" target="-NO5CkW5-r49oLRjjieS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-NO5CkW5-r49oLRjjieS-1" target="-NO5CkW5-r49oLRjjieS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-NO5CkW5-r49oLRjjieS-1" target="-NO5CkW5-r49oLRjjieS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-1" value="网络基础服务子系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-2" value="站点管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-3" value="网络编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-6" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-8" value="性能监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-10" value="注册&lt;br&gt;登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-11" value="查看日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-12" value="权限授予" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-13" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-14" value="智能选路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-15" value="零配置开局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-16" value="拓扑编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-17" value="链路管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-18" value="流策略管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-19" value="站点性能信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-20" value="链路质量信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-NO5CkW5-r49oLRjjieS-21" value="流策略流量信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
