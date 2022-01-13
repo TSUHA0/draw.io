@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:05:12.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" version="16.2.4" etag="SQDmDr7gptVJtUawiRh5" type="github"><diagram id="hBZn4-fczS-5jTJQqSj2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-13T15:08:49.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="VsMTsxnOzQQWGzY9_rqC" version="16.2.4" type="github">
+  <diagram id="hBZn4-fczS-5jTJQqSj2" name="Page-1">
+    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-1" value="探测链路质量" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="262" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZvVlKUzdrE-QI-ujkTCk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-4" value="识别流量类型" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZvVlKUzdrE-QI-ujkTCk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-6" value="选路控制" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="262" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=-0.006;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZvVlKUzdrE-QI-ujkTCk-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="293.9999999999991" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-8" value="租户管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-10" value="下发配置" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvVlKUzdrE-QI-ujkTCk-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZvVlKUzdrE-QI-ujkTCk-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="288" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
