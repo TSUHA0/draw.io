@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T12:37:08.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" version="16.2.4" etag="bNNR1yqi5bPlK5n-zk3M" type="github"><diagram id="YiOu0GqA9Z7Wtl_ZQLib">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-13T13:00:31.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="CuSngM2l7FuyR0I4adc5" version="16.2.4" type="github">
+  <diagram id="YiOu0GqA9Z7Wtl_ZQLib" name="Page-1">
+    <mxGraphModel dx="938" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-31" value="配置链路组" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="278" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HJMain9ZQ3YbaQ1v1-s8-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HJMain9ZQ3YbaQ1v1-s8-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="298.395" y="529.9749999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-38" value="配置应用组" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HJMain9ZQ3YbaQ1v1-s8-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-40" value="配置选路策略模板" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="278" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#990000;entryX=-0.006;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HJMain9ZQ3YbaQ1v1-s8-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="293.9999999999991" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-54" value="租户管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HJMain9ZQ3YbaQ1v1-s8-65" value="配置智能选路" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#990000;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="276" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
