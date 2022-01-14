@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T15:38:20.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="ZkFJ6LMS_HT2NLicp0Fm" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T15:40:54.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="lyweKtv_YpHCx80g6Cph" version="16.2.4" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="1133" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,13 +178,8 @@
         <mxCell id="Du6BjmX0Nj6Z0RAfyXeh-6" value="&lt;span style=&quot;font-size: 14px&quot;&gt;链路质量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="170.75" y="358" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Du6BjmX0Nj6Z0RAfyXeh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Du6BjmX0Nj6Z0RAfyXeh-7" target="dzm5Bv51QSr1lYolgeY9-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="295" y="438" />
-              <mxPoint x="386" y="438" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Du6BjmX0Nj6Z0RAfyXeh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Du6BjmX0Nj6Z0RAfyXeh-7" target="dzm5Bv51QSr1lYolgeY9-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Du6BjmX0Nj6Z0RAfyXeh-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;智能选路&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="260" y="358" width="70" height="60" as="geometry" />
