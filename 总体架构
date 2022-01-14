@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T13:59:04.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="Ixw7dcbyHH1RnO-PpS5t" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T15:20:20.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="28CT_VqX13jnyqa66Wsh" version="16.2.4" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,14 +80,6 @@
         </mxCell>
         <mxCell id="dzm5Bv51QSr1lYolgeY9-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;选路策略&lt;br&gt;配置&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontColor=#000000;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="217" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5mO2W-IBuzFbUAVk60as-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dzm5Bv51QSr1lYolgeY9-18" target="dzm5Bv51QSr1lYolgeY9-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="195" y="338" />
-              <mxPoint x="400" y="338" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="dzm5Bv51QSr1lYolgeY9-18" value="&lt;span style=&quot;font-size: 14px&quot;&gt;流量识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="160" y="358" width="70" height="60" as="geometry" />
