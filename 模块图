@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T15:45:28.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="3R8TCRWsZuav-9mlwJ6B" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T15:48:24.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="1iw85l9WtjzQr3bdkO1X" version="16.2.4" type="github">
   <diagram id="P4kcmSs1mavT8kQm9UWM" name="Page-1">
     <mxGraphModel dx="777" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="-NO5CkW5-r49oLRjjieS-8" value="数据持久化模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="372.5" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iuXH2ZnCoUjWMGgTcd3s-1" value="应用选路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iuXH2ZnCoUjWMGgTcd3s-1" value="智能选路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522.5" y="210" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
