@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T20:37:03.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" version="20.2.7" etag="tku7VgcyU1E_P7dlgv6Z" type="github"><diagram id="mEMUbkTxQks6_uvqbVzx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-07T20:43:32.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="bK00a0mnFMnXk_up8vMt" version="20.2.7" type="github">
+  <diagram id="mEMUbkTxQks6_uvqbVzx" name="第 1 页">
+    <mxGraphModel dx="915" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HnWdniv4fwtQno0NBbd1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HnWdniv4fwtQno0NBbd1-19" target="HnWdniv4fwtQno0NBbd1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HnWdniv4fwtQno0NBbd1-19" target="HnWdniv4fwtQno0NBbd1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="160" width="385" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HnWdniv4fwtQno0NBbd1-1" target="HnWdniv4fwtQno0NBbd1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="155" />
+              <mxPoint x="280" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-1" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HnWdniv4fwtQno0NBbd1-2" target="HnWdniv4fwtQno0NBbd1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-2" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="67.56" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HnWdniv4fwtQno0NBbd1-4" target="HnWdniv4fwtQno0NBbd1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="275" />
+              <mxPoint x="280" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-4" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HnWdniv4fwtQno0NBbd1-5" target="HnWdniv4fwtQno0NBbd1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="405" />
+              <mxPoint x="280" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-5" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-9" value="k8s负载均衡服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-10" value="ipad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-11" value="手机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-12" value="PC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-13" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="190" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-14" value="应用选路Web服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-15" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="190" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-16" value="应用选路Web服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-17" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="190" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-18" value="应用选路Web服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;应用选路Web集群&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-23" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="780" y="230" width="67.56" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-24" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="67.56" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="746.28" y="130" width="135" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-26" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="787.56" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-27" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="783.78" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-28" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="783.78" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据库集群&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="746.28" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-30" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="402.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-31" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="402.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-32" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="402.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-33" value="SD-WAN路由" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="457.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-34" value="SD-WAN路由" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="457.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-35" value="SD-WAN路由" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="457.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="380" width="385" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HnWdniv4fwtQno0NBbd1-37" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SD-WAN&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="347.5" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
