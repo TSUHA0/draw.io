@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T17:42:58.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" version="20.2.7" etag="sfAprPf7YcpB_X6J6A4m" type="github"><diagram id="w46aEz-yQ6lBukEjF7g1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-08T10:42:26.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="KV-ahS2Mp9fD3Zg8QyvO" version="20.2.7" type="github">
+  <diagram id="w46aEz-yQ6lBukEjF7g1" name="第 1 页">
+    <mxGraphModel dx="1903" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=12;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-2" target="fj7HHcMdalHpAUNR_uRP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SdwanAppI&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;dentify&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-&amp;nbsp;msgId:&amp;nbsp;Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-&amp;nbsp;msgFeatures: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;sdwanSAService:&amp;nbsp;SdwanSAService&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+&amp;nbsp;unpackMsg(AIParamsDTO): JSONObject&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;+&amp;nbsp;classifyPackage(AIParamsDTO):&amp;nbsp;JSONObject&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ constructIdentifyData(JSONObject, JSONObject): Map&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ joinFPIPool(DataDTO, SdwanFPI): DataDTO&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;SdwanAppI&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;dentify&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ervice&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+&amp;nbsp;unpackMsg(AIParamsDTO): JSONObject&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;+&amp;nbsp;classifyPackage(AIParamsDTO):&amp;nbsp;JSONObject&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="280" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;SdwanFPI&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- packageInfo: Map&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- msgId: Integer&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- packageLoc: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;# classifyACL&lt;span style=&quot;background-color: initial;&quot;&gt;(Map): Integer&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;# classifyField(Map, String): Map&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;# queryAppGroup(Map, String): Map&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-9" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-2" target="fj7HHcMdalHpAUNR_uRP-5">
+          <mxGeometry x="-0.8621" y="5" relative="1" as="geometry">
+            <mxPoint x="450" y="585.03" as="sourcePoint" />
+            <mxPoint x="530" y="607.53" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SdwanSA&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;-&amp;nbsp;userId: Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;-&amp;nbsp;msgId: Integer&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- sdwanHWCloudService:&amp;nbsp;SdwanHWCloudService&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ queryEIAsync(DataDTO, string): JSONObject&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ trainEIAsync(DataDTO, string): JSONObject&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="560" width="315" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;SdwanDefaultFPI&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- srcIp: Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- dstIp: Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- l2Protocol:&amp;nbsp; Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- l3Protocol: Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- srcPort: Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- dstPort: Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- sdwanCustomFPI:&amp;nbsp;SdwanCustomFPI&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ classifyByIp&lt;span style=&quot;background-color: initial;&quot;&gt;(I&lt;/span&gt;nteger, Integer, String&lt;span style=&quot;background-color: initial;&quot;&gt;): Integer&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ classifyByPort(Integer, Integer, String): Integer&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ classifyByDSCP&lt;span style=&quot;background-color: initial;&quot;&gt;(Integer, Integer, String): Integer&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ classifyByProtocol(Integer, Integer, String): Integer&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="710" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;SdwanCustomFPI&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- userId: Integer&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;-&amp;nbsp;appStatistic: boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- aggregationConn: Map&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- lable: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- ruleName: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ matchRule&lt;span style=&quot;background-color: initial;&quot;&gt;(String, Integer): List&amp;lt;String&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;+ dnsResolve&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;(String, List&amp;lt;Integer&amp;gt;): List&amp;lt;Integer&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;+ updateSchedule(boolean): Map&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;+ classifyBySDB(Map, String): Integer&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;+ updateDataModel(Integer, String): Integer&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="710" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-18" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="10" y="590" as="sourcePoint" />
+            <mxPoint x="170" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-19" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-17" target="fj7HHcMdalHpAUNR_uRP-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="115" y="719.9999999999998" as="sourcePoint" />
+            <mxPoint x="180" y="599.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="515" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-20" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=-0.008;entryY=0.449;entryDx=0;entryDy=0;exitX=1.005;exitY=0.448;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-15" target="fj7HHcMdalHpAUNR_uRP-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="780" as="sourcePoint" />
+            <mxPoint x="420" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;SdwanSA&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ervice&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+&amp;nbsp;packageSAIdentify(AIParamsDTO): JSONObject&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;+&amp;nbsp;queryService(AIParamsDTO):&amp;nbsp;Map&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="430" width="300" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;endSize=12;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-10" target="fj7HHcMdalHpAUNR_uRP-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="390.0000000000002" as="sourcePoint" />
+            <mxPoint x="310" y="367.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-24" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-2" target="fj7HHcMdalHpAUNR_uRP-21">
+          <mxGeometry x="-0.9036" relative="1" as="geometry">
+            <mxPoint x="555" y="470" as="sourcePoint" />
+            <mxPoint x="870" y="490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;SdwanHWCloudAppClassify&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ cloudAppClassify(DataDTO, JSONObject): JSONObject&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;+ cloudAppDownload(JSONObject): DataDTO&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ cloudAppTrains(DataDTO, string,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="765" width="315" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7HHcMdalHpAUNR_uRP-26" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fj7HHcMdalHpAUNR_uRP-10" target="fj7HHcMdalHpAUNR_uRP-25">
+          <mxGeometry x="-0.4667" y="3" relative="1" as="geometry">
+            <mxPoint x="740.0000000000005" y="390.0000000000002" as="sourcePoint" />
+            <mxPoint x="897.4999999999995" y="489.9999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
